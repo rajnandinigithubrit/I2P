@@ -1,0 +1,7 @@
+{
+  "name": "I2P",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
